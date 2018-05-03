@@ -1,0 +1,15 @@
+.DS_Store
+
+.idea
+
+.editorconfig
+
+*~
+.vagrant
+
+*.pyc
+*.sqite3
+
+Gemfile.lock
+log/*
+.bundle
