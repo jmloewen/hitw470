@@ -7,10 +7,8 @@ class Restaurants_model extends CI_Model {
 	}
 
     public function get_id_and_secret(){
-        #backup client id: IREJNTZAUVFPPDAEJ2EY0L4AHKFGYMPUB4RKEHJG5QK20AXS
-        #backup secret: WVP24YF0O504XZ4QMOQ3TPKZ3DZI3KYYO3ODP3DR0SKHZ2FX
-        $client_id = "WCJXKICZZ3FVGLCCQNJQ3XL3WXDCX5GVFRF5E1PYLQ5MUEMI";
-        $client_secret = "WQU20OQPUUCLSTZUFNL5C3DH52JZ3AHFT1XQ1WYIRZM3QTMH";
+	    #There was a client ID and secret here when the site used to work.  Theyre gone now.
+	    #Removed to not get my keys scraped by bots.
         return array($client_id, $client_secret);
     }
 
