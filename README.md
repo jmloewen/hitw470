@@ -39,7 +39,7 @@ By _WebsiteDispenser_
 
 - **Foursquare**
     - "Why did we use Foursquare over Google Places, or Zomato?
-        - There are a few reasons for this.
+        - There are a few reasons for this:
             - First, neither Google Places nor Zomato allow the storage of their data.  We wanted to honor the TOS of these APIs, and used Foursquare instead, which allows storage of its API data, so long as the data is refreshed every 30 days.
             - Second, Foursquare was the most familiar tool to the three members on our team, letting us develop faster.
             - Third, Foursquare's free account provided a more flexible functionality than Places and Zomato, despite having inferior data available and requiring more navigation.
